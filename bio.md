@@ -6,8 +6,7 @@ Instaffo GmbH
 
 ## Picture
 
-[!image](casual_1_rect.png)
-
+![image](https://raw.githubusercontent.com/janjagusch/PyConBerlin2019/master/casual_1_rect.png?token=AGFHV3XPP7VVJC5YPDGNK2C46GCLE)
 
 ## Position/ Job
 
@@ -23,7 +22,7 @@ n.a.
 
 ## Github
 
-https://github.com/jbj2505
+https://github.com/jjagusch
 
 ## LinkedIn
 
