@@ -6,6 +6,7 @@ Instaffo GmbH
 
 ## Picture
 
+[!image](casual_1_rect.png)
 
 
 ## Position/ Job
