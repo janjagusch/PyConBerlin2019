@@ -26,7 +26,7 @@ https://github.com/jjagusch
 
 ## LinkedIn
 
-https://www.linkedin.com/in/jjagusch/
+https://www.linkedin.com/in/jjagusch
 
 ## Country of Residence
 
