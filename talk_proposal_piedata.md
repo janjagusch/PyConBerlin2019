@@ -16,6 +16,19 @@ This talk summarizes a text mining project applied to 40,000 cake recipes. The f
 
 ### Description
 
+Everbody enjoys a good slice of delicious cake. But what is it that makes cakes objectively delicious? Is the extra piece of butter you put in the dough? Or maybe because you mixed wet and dry ingredients seperately? In this talk we will go on a text mining journey harnessing more than 40,000 cake recipes from a large German recipe platform to truely understand what makes a good cake.
+
+1. Structure of the data source and brief description of retrieval and storage process.
+2. Normalizing the data.
+3. Applying word embeddings.
+4. Training a classifier.
+5. Benchmark results.
+6. Use case results.
+
+The presentation will start by introducing the data source, explaining the retrievel process and presenting some descriptive statistics. Next, it will explain how natural language processing tools like topic modelling can be used to convert recipes into numerical embeddings. Finally, a regression model will be trained on the numerical embeddings trying to predict the rating the cake received on the platform. If time allows, we will also go more into depth with determining similarities between ingredients and building a ingredient graph.
+
+This talk demonstrates how NLP can be used to analyze unstructured datasets. It does so by introducing the audience to a entertaining, easy to understand and delicious use case. 
+
 You can use Markdown here. This content will be shown publicly. Please write between 120 and 2500 characters.
 
 ### Notes
@@ -24,29 +37,29 @@ These notes are meant for the organiser and won't be made public.
 
 ### Don't record this talk
 
-Yes, No
+No
 
 ### Additional Speaker
 
-If you have a co-speaker, please add their email address here, and we will invite them to create an account. If you have more than one co-speaker, you can add more speakers after finishing the submission process.
+None
 
 ## Questions
 
 ### Domains
 
-Artificial Intelligence, Algorithms, Astronomy, Augmented Reality, Business & Start-Ups, Big Data, Community, Code-Review, Computer Vision, Deep Learning, Django, Data Science, DevOps, Infrastructure, IDEs/ Jupyter, Networks, Natural Language Processing, Machine Learning, Microcontrollers, Parallel Programming, Robotics, Science, Visualisation, Web, 3D Priniting, Makers, Data Engineering, Statistics, APIs, Data Mining / Scraping, Use Cases
+Big Data, Community, Deep Learning, Data Science, Networks, Natural Language Processing, Machine Learning, Visualisation, Data Engineering, Statistics, Data Mining / Scraping, Use Cases
 
 ### Domain Expertise
 
-None, Some, Expert, Guru
+Some
 
 ### Python Skill Level
 
-None, Some, Expert, Guru
+None
 
 ### Link to talk slides
 
-Optional slides of (previous) versions of your submission for reviewers only
+tba
 
 ### Abstract as a tweet
 
