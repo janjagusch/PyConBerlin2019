@@ -16,24 +16,20 @@ This talk summarizes a text mining project applied to 40,000 cake recipes. The f
 
 ### Description
 
-Everbody enjoys a good slice of delicious cake. But what is it that makes cakes objectively delicious? Is the extra piece of butter you put in the dough? Or maybe because you mixed wet and dry ingredients seperately? In this talk we will go on a text mining journey harnessing more than 40,000 cake recipes from a large German recipe platform to truely understand what makes a good cake.
+Everbody enjoys a slice of delicious cake. But how does one prepare good cake? And how can you avoid your freshly baked pie to be too dry, dense or tough? In this talk, we will learn about baking objectively delicious cake by analyzing more than 40,000 cake recipes and user ratings from a large German recipe platform. During the presentation, we will cover all steps involved in a text mining project that are:
 
-1. Structure of the data source and brief description of retrieval and storage process.
-2. Normalizing the data.
-3. Applying word embeddings.
-4. Training a classifier.
-5. Benchmark results.
-6. Use case results.
+1. Sourcing and describing the data.  
+2. Cleaning and normalizing the text.  
+3. Converting text into meaningful topics.  
+4. Engineering and selecting features.  
+5. Fitting a regression model to the average user rating.  
+6. Evaluating the results.
 
-The presentation will start by introducing the data source, explaining the retrievel process and presenting some descriptive statistics. Next, it will explain how natural language processing tools like topic modelling can be used to convert recipes into numerical embeddings. Finally, a regression model will be trained on the numerical embeddings trying to predict the rating the cake received on the platform. If time allows, we will also go more into depth with determining similarities between ingredients and building a ingredient graph.
-
-This talk demonstrates how NLP can be used to analyze unstructured datasets. It does so by introducing the audience to a entertaining, easy to understand and delicious use case. 
-
-You can use Markdown here. This content will be shown publicly. Please write between 120 and 2500 characters.
+The audience will learn about general natural language processing tools, such as term frequency–inverse document frequency and singular value decomposition. Further, we will demonstrate how to integrate all these components into a single machine learning pipeline, using scikit-learn.
 
 ### Notes
 
-These notes are meant for the organiser and won't be made public.
+
 
 ### Don't record this talk
 
@@ -47,7 +43,7 @@ None
 
 ### Domains
 
-Big Data, Community, Deep Learning, Data Science, Networks, Natural Language Processing, Machine Learning, Visualisation, Data Engineering, Statistics, Data Mining / Scraping, Use Cases
+Data Science, Natural Language Processing, Machine Learning, Visualisation, Statistics, Data Mining / Scraping, Use Cases
 
 ### Domain Expertise
 
@@ -63,12 +59,13 @@ tba
 
 ### Abstract as a tweet
 
-Short description of your abstract one could tweet
+Do you love #Pie as much as you love #Data? Join Jan's talk about text mining cake recipes and get a taste of natural language processing with #ScikitLearn.
 
 ### Public link to supporting material
 
-Any link you would like to share publicly e.g. a github repro
+tba
 
 ### Notes for reviewers only
 
-Anything you like to share with the reviewers only - will not be published
+- The data was extracted from chefkoch.de, using a scraper written in Python.  
+- If time allows, we will also briefly cover more advanced topics, such as ELMO and BERT.
