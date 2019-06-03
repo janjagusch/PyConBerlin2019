@@ -67,5 +67,5 @@ tba
 
 ### Notes for reviewers only
 
-- The data was extracted from chefkoch.de, using a scraper written in Python.  
+- The data was extracted from chefkoch.de, using a scraper written in Python. This means that the raw data is mostly in German. However, all necessary information for this talk will be translated to English.
 - If time allows, we will also briefly cover more advanced topics, such as ELMO and BERT.
