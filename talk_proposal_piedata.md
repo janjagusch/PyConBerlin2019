@@ -68,4 +68,5 @@ tba
 ### Notes for reviewers only
 
 - The data was extracted from chefkoch.de, using a scraper written in Python. This means that the raw data is mostly in German. However, all necessary information for this talk will be translated to English.
+- I checked chefkoch.de's terms and conditions (AGB), which does not specify whether data can be scraped and/ or shared with others. I am no expert on this subject, but I believe that scraping and sharing for a non-profit, educational purpose lies within their AGBs. I have also attached a copy of their AGBs from June 2019.
 - If time allows, we will also briefly cover more advanced topics, such as ELMO and BERT.
