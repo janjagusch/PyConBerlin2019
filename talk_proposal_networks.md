@@ -4,15 +4,15 @@
 
 ### Submission Title
 
-This content will be shown publicly.
+Visualizing Networks in Python
 
 ### Submission Type
 
-Talk (30 min.), Talk (45 min.), Tutorial (90 min.)
+Talk (30 min.)
 
 ### Abstract
 
-You can use Markdown here. This content will be shown publicly. Please write between 120 and 250 characters.
+This talk explains how to visualize workflow-, social- and neural- networks in Python. It demonstrates how to use established frameworks to build graph-like objects, calculate topologies and render interactive plots.
 
 ### Description
 
