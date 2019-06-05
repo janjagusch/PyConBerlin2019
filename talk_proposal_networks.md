@@ -24,25 +24,24 @@ These notes are meant for the organiser and won't be made public.
 
 ### Don't record this talk
 
-Yes, No
+No
 
 ### Additional Speaker
 
-If you have a co-speaker, please add their email address here, and we will invite them to create an account. If you have more than one co-speaker, you can add more speakers after finishing the submission process.
 
 ## Questions
 
 ### Domains
 
-Artificial Intelligence, Algorithms, Astronomy, Augmented Reality, Business & Start-Ups, Big Data, Community, Code-Review, Computer Vision, Deep Learning, Django, Data Science, DevOps, Infrastructure, IDEs/ Jupyter, Networks, Natural Language Processing, Machine Learning, Microcontrollers, Parallel Programming, Robotics, Science, Visualisation, Web, 3D Priniting, Makers, Data Engineering, Statistics, APIs, Data Mining / Scraping, Use Cases
+Deep Learning, Data Science, Networks, Visualisation
 
 ### Domain Expertise
 
-None, Some, Expert, Guru
+Some
 
 ### Python Skill Level
 
-None, Some, Expert, Guru
+Some
 
 ### Link to talk slides
 
